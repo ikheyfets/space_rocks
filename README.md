@@ -1,2 +1,1 @@
-# space_rocks
-Exploratory Analysis of NASA Meteorites Dataset
+#Exploratory Analysis of NASA Meteorites Dataset
