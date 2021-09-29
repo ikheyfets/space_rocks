@@ -30,11 +30,11 @@ Variable *fall* describes whether or not the meteorite was observed during fall.
 
 Only approximately 1/31 meteorites that fell to Earth was observed during the fall. For better visual representations please refer to the graphs below:
 
-![](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929003847616.png)
+![](E:\git\space_rocks\meteorite-observations-barplot-16328918984161.png)
 
 A pie chart may be a better representation of how few meteorites get observed in the sky before falling down. 
 
-![image-20210929003907764](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929003907764.png)
+![](E:\git\space_rocks\meteorite-observations-piechart.png)
 
 
 
@@ -58,11 +58,11 @@ Interquartile range is 195.6.
 
 Visualizing this dataset is very difficult due to how far right skewed this dataset is.
 
-![image-20210929004102451](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929004102451.png)
+![](E:\git\space_rocks\hist-complete.png)
 
 Zooming in between the first and third quartiles provides a slightly better visual.
 
-![image-20210929004114707](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929004114707.png)
+![](E:\git\space_rocks\hist_iqr.png)
 
 
 
@@ -89,11 +89,11 @@ Observation Relict Valid   Sum
 
 Mosaic plot offers good representation of bivariate data:
 
-![image-20210929004356219](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929004356219.png)
+![](E:\git\space_rocks\observation-condition-mosaic.png)
 
 A barplot, however, better highlights the ratio between valid meteorites that were found and that were observed during the fall:
 
-![image-20210929004427739](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929004427739.png)
+![](E:\git\space_rocks\observation-condition-barplot.png)
 
 
 
@@ -103,15 +103,15 @@ Central Limit Theorem states that the distribution of the sample means for a giv
 
 First random sample, sample size 100: 
 
-![image-20210929004530643](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929004530643.png)
+![](E:\git\space_rocks\sample100.png)
 
 Second random sample, sample size 1000: 
 
-![image-20210929004549211](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929004549211.png)
+![](E:\git\space_rocks\sample1000.png)
 
 Third random sample, sample size 10000: 
 
-![image-20210929004602730](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929004602730.png)
+![](E:\git\space_rocks\sample10000.png)
 
 Since the original data are not normally distributed, smaller sample size results in the left-skewed distribution. Increasing the sample size leads to the distribution becoming less skewed and approaching the shape of normal distribution. 
 
@@ -197,5 +197,5 @@ Simple sampling with replacement is the closest representation of population for
 
 #### <u>World Map:</u>
 
-![image-20210929005325418](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20210929005325418.png)
+![](E:\git\space_rocks\world_map.png)
 
