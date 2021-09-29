@@ -34,7 +34,7 @@ Only approximately 1/31 meteorites that fell to Earth was observed during the fa
 
 A pie chart may be a better representation of how few meteorites get observed in the sky before falling down. 
 
-![](plots\meteorite-observations-piechart.png)
+![](plots/meteorite-observations-piechart.png)
 
 
 
@@ -58,11 +58,11 @@ Interquartile range is 195.6.
 
 Visualizing this dataset is very difficult due to how far right skewed this dataset is.
 
-![](plots\hist-complete.png)
+![](plots/hist-complete.png)
 
 Zooming in between the first and third quartiles provides a slightly better visual.
 
-![](plots\hist_iqr.png)
+![](plots/hist_iqr.png)
 
 
 
@@ -89,11 +89,11 @@ Observation Relict Valid   Sum
 
 Mosaic plot offers good representation of bivariate data:
 
-![](plots\observation-condition-mosaic.png)
+![](plots/observation-condition-mosaic.png)
 
 A barplot, however, better highlights the ratio between valid meteorites that were found and that were observed during the fall:
 
-![](plots\observation-condition-barplot.png)
+![](plots/observation-condition-barplot.png)
 
 
 
@@ -103,15 +103,15 @@ Central Limit Theorem states that the distribution of the sample means for a giv
 
 First random sample, sample size 100: 
 
-![](plots\sample100.png)
+![](plots/sample100.png)
 
 Second random sample, sample size 1000: 
 
-![](plots\sample1000.png)
+![](plots/sample1000.png)
 
 Third random sample, sample size 10000: 
 
-![](plots\sample10000.png)
+![](plots/sample10000.png)
 
 Since the original data are not normally distributed, smaller sample size results in the left-skewed distribution. Increasing the sample size leads to the distribution becoming less skewed and approaching the shape of normal distribution. 
 
@@ -197,5 +197,5 @@ Simple sampling with replacement is the closest representation of population for
 
 #### <u>World Map:</u>
 
-![](plots\world_map.png)
+![](plots/world_map.png)
 
